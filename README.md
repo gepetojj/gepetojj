@@ -1,16 +1,25 @@
-### Hi there 👋
+## João Pedro
 
-<!--
-**gepetojj/gepetojj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![email](https://img.shields.io/badge/email-nmjoaopedro22@gmail.com-4A47A3?labelColor=7C83FD&style=flat-square&link=mailto:nmjoaopedro22@gmail.com)](mailto:nmjoaopedro22@gmail.com)
+[![twitter](https://img.shields.io/badge/twitter-@gptojj-4A47A3?labelColor=7C83FD&style=flat-square&link=https://twitter.com/gptojj)](https://twitter.com/gptojj)
 
-Here are some ideas to get you started:
+Também conhecido como Gepetojj (ou só Gepeto). Eu sou um dev interessado em criar coisas que tenham o potencial de mudar a vida de alguém para melhor.  
+  
+Eu estou no ensino médio atualmente, mas desde menor já era interessado em tecnologia e como as coisas funcionam.  
+Sou apaixonado por backend e lógica, apesar de também gostar de fazer interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Meus projetos principais:
+
+* [dollarbot.](https://github.com/gepetojj/dollarbotv2)
+* [gepetoservices](https://github.com/gepetojj/gepetoservices)
+* [gepetoauth](https://github.com/gepetojj/gepetoauth)
+
+#### Minhas linguagens favoritas:
+
+* Typescript (Javascript)
+* Python
+
+#### Desejo aprender:
+
+* Golang
+* Elixir
