@@ -6,7 +6,7 @@
 Também conhecido como Gepetojj (ou só Gepeto). Eu sou um dev interessado em criar coisas que tenham o potencial de mudar a vida de alguém para melhor.  
   
 Eu estou no ensino médio atualmente, mas desde menor já era interessado em tecnologia e como as coisas funcionam.  
-Sou apaixonado por backend e lógica, apesar de também gostar de fazer interfaces. DevOps ainda não é meu forte, mas busco aperfeiçar essa parte.
+Sou apaixonado por backend e lógica, apesar de também gostar de fazer interfaces. DevOps ainda não é meu forte, mas busco aperfeiçoar essa parte.
 
 #### Minhas linguagens favoritas:
 
