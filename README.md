@@ -2,7 +2,7 @@
 
 <p align="left"> 
  	Oie 👋 <br/>
-  	Meu nome é João Pedro e sou um dev estudante do ensino médio no IFAL, interessado tanto no backend quanto no frontend, além de adorar programar para microcontroladores, principalmente com ESP32.
+  	Meu nome é João Pedro e sou um dev cursando Sistemas de Informação no Ifal. Minha paixão é o backend, mas também tenho certo conhecimento em frontend e DevOps. Além disso, também programo para sistemas embarcados, principalmente ESP-32.
 </p>
 
 <p align="left">
@@ -30,7 +30,7 @@
 </p>
 
 <p align="left">
- 	<a href="mailto:contato.gepetojj@gmail.com" alt="Gmail">
+ 	<a href="mailto:nmjoaopedro22@gmail.com" alt="Gmail">
   		<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" />
 	</a>
 	<a href="https://twitter.com/gptojj" alt="Twitter">
