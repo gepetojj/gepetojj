@@ -1,39 +1,31 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="left"> 
- 	Oie 👋 <br/>
-  	Meu nome é João Pedro e sou um dev cursando Sistemas de Informação no Ifal. Minha paixão é o backend, mas também tenho certo conhecimento em frontend e DevOps. Além disso, também programo para sistemas embarcados, principalmente ESP-32.
-</p>
+### Olá, sou o João Pedro 👋
+#### Desenvolvedor Backend | Especialista em Sistemas Críticos e Escaláveis
 
-<p align="left">
-  	🦄 Linguagens:
-</p>
+Minha missão é construir a fundação de backend que permite às empresas inovar com velocidade e segurança. Atuo diretamente na engenharia de sistemas robustos, flexíveis e preparados para o futuro, garantindo que a infraestrutura seja um catalisador para o crescimento.
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+Transformo desafios de negócio em soluções de alto impacto utilizando meu conhecimento em:
+
+- ☁️ **Cloud & DevOps:** Arquiteturas na AWS e processos de automação.
+- ⚙️ **Backend:** Ecossistemas como Node.js, TypeScript, Java e Python.
+- 🤖 **Sistemas Embarcados:** Programação e prototipagem com ESP-32.
+
+Atualmente, estou cursando **Sistemas de Informação no IFAL**, unindo a teoria acadêmica com a prática do mercado para criar tecnologia que resolve problemas reais.
+
+---
+
+###  Principais Tecnologias:
+
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-
-<p align="left">
-  	💼 Ferramentas:
-</p>
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
-<p align="left">
- 	Entre em contato comigo pelos meios abaixo: ⤵️
-</p>
+---
 
-<p align="left">
- 	<a href="mailto:nmjoaopedro22@gmail.com" alt="Gmail">
-  		<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" />
-	</a>
-	<a href="https://twitter.com/gptojj" alt="Twitter">
-		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
-	</a>
-</p>
+### 💬 Conecte-se comigo:
+
+<a href="mailto:contato.gepetojj@gmail.com" alt="Gmail"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/nobrejoaox/" alt="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
