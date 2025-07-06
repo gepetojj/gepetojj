@@ -17,11 +17,11 @@ Atualmente, estou cursando **Sistemas de Informação no IFAL**, unindo a teoria
 
 ###  Principais Tecnologias:
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/typescript/typescript.png"></code>
+<code><img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/java/java.png"></code>
+<code><img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/python/python.png"></code>
+<code><img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/nodejs/nodejs.png"></code>
+<code><img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/aws/aws.png"></code>
 
 ---
 
