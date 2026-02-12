@@ -1,21 +1,26 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
+min-width="400px" max-width="400px" width="400px" align="right" alt="Computer illustration" />
 
-### Olá, sou o João Pedro 👋
-#### Desenvolvedor Backend | Especialista em Sistemas Críticos e Escaláveis
+### Olá, sou o João Pedro
+#### Liderança em Tecnologia
 
-Minha missão é construir a fundação de backend que permite às empresas inovar com velocidade e segurança. Atuo diretamente na engenharia de sistemas robustos, flexíveis e preparados para o futuro, garantindo que a infraestrutura seja um catalisador para o crescimento.
+Alinho tecnologia aos objetivos de negócios, transformando tempo, esforço e recursos em resultados tangíveis.
+Atuo na estratégia e na execução ponta a ponta, do diagnóstico e priorização à entrega e operação.
 
-Transformo desafios de negócio em soluções de alto impacto utilizando meu conhecimento em:
+**Em que eu gero valor:**
+- Estratégia de produto e execução (priorização, arquitetura, entrega, operação)
+- Automação de processos e eficiência operacional
+- Plataformas e integrações críticas (pagamentos, APIs, dados)
+- Confiabilidade e escala (observabilidade, performance, custos)
 
-- ☁️ **Cloud & DevOps:** Arquiteturas na AWS e processos de automação.
-- ⚙️ **Backend:** Ecossistemas como Node.js, TypeScript, Java e Python.
-- 🤖 **Sistemas Embarcados:** Programação e prototipagem com ESP-32.
-
-Atualmente, estou cursando **Sistemas de Informação no IFAL**, unindo a teoria acadêmica com a prática do mercado para criar tecnologia que resolve problemas reais.
+**Capacidades técnicas:**
+- ☁️ Cloud & DevOps: AWS, automação, CI/CD, infraestrutura como produto
+- ⚙️ Backend: Node.js, TypeScript, Java, Python; APIs e integrações
+- 🤖 Embarcados/IoT: ESP-32 (prototipagem e validação)
 
 ---
 
-###  Principais Tecnologias:
+### Principais Tecnologias
 
 <code><img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/typescript/typescript.png"></code>
 <code><img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/java/java.png"></code>
@@ -25,7 +30,11 @@ Atualmente, estou cursando **Sistemas de Informação no IFAL**, unindo a teoria
 
 ---
 
-### 💬 Conecte-se comigo:
+### Contato
 
-<a href="mailto:contato.gepetojj@gmail.com" alt="Gmail"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/nobrejoaox/" alt="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:oi@gepetojj.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/nobrejoaox/" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
